@@ -46,8 +46,7 @@ If blocked: you'll get Connection refused or Permission denied.
 2. Test HTTP (Port 80) — Allowed  
 Start a temporary HTTP server  
 ```python3 -m http.server 80```  
-<img src="images/5-2-1.png">
-
+<img src="images/5-2-1.png"> 
 In another terminal  
 ```curl http://localhost```  
 <img src="images/5-2-2.png">  
